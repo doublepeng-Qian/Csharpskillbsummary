@@ -1,0 +1,11 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/DelegateTest1/obj/Debug/DelegateTest1.csprojAssemblyReference.cache
+/DelegateTest2/obj/Debug/DelegateTest2.csprojAssemblyReference.cache
+/WindowsFormsApp1
+/ConsoleApp.dotnet.demo/obj
+/NUnitTestProject1/obj
+/WebApplication1_dotnet/obj
+/WindowsFormsApp2/obj/Debug
