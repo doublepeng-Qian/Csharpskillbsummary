@@ -1,0 +1,13 @@
+E:\CSDN\C#\xuexilianxi\DelegateTest2\bin\Debug\DelegateTest2.exe.config
+E:\CSDN\C#\xuexilianxi\DelegateTest2\bin\Debug\DelegateTest2.exe
+E:\CSDN\C#\xuexilianxi\DelegateTest2\bin\Debug\DelegateTest2.pdb
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.csprojAssemblyReference.cache
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.Form1.resources
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.Form2.resources
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.Form3.resources
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.Form4.resources
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.Properties.Resources.resources
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.csproj.GenerateResource.cache
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.csproj.CoreCompileInputs.cache
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.exe
+E:\CSDN\C#\xuexilianxi\DelegateTest2\obj\Debug\DelegateTest2.pdb

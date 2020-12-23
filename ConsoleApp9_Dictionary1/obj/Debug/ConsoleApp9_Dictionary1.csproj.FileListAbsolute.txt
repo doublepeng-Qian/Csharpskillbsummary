@@ -1,0 +1,6 @@
+E:\CSDN\C#\xuexilianxi\ConsoleApp9_Dictionary1\bin\Debug\ConsoleApp9_Dictionary1.exe.config
+E:\CSDN\C#\xuexilianxi\ConsoleApp9_Dictionary1\bin\Debug\ConsoleApp9_Dictionary1.exe
+E:\CSDN\C#\xuexilianxi\ConsoleApp9_Dictionary1\bin\Debug\ConsoleApp9_Dictionary1.pdb
+E:\CSDN\C#\xuexilianxi\ConsoleApp9_Dictionary1\obj\Debug\ConsoleApp9_Dictionary1.csproj.CoreCompileInputs.cache
+E:\CSDN\C#\xuexilianxi\ConsoleApp9_Dictionary1\obj\Debug\ConsoleApp9_Dictionary1.exe
+E:\CSDN\C#\xuexilianxi\ConsoleApp9_Dictionary1\obj\Debug\ConsoleApp9_Dictionary1.pdb

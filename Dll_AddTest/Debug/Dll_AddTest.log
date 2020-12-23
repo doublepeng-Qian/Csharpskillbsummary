@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+E:\CSDN\C#\xuexilianxi\Dll_AddTest\dllmain.cpp(29,1): warning C4273: “Add”: dll 链接不一致
+E:\CSDN\C#\xuexilianxi\Dll_AddTest\dll_demo.h(9,25): message : 参见“Add”的前一个定义
+    正在创建库 E:\CSDN\C#\xuexilianxi\WindowsFormsApp1\Debug\Dll_AddTest.lib 和对象 E:\CSDN\C#\xuexilianxi\WindowsFormsApp1\Debug\Dll_AddTest.exp
+  Dll_AddTest.vcxproj -> E:\CSDN\C#\xuexilianxi\WindowsFormsApp1\Debug\Dll_AddTest.dll

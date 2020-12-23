@@ -1,0 +1,7 @@
+E:\CSDN\C#\xuexilianxi\ConsoleApp12_LSP\bin\Debug\ConsoleApp12_LSP.exe.config
+E:\CSDN\C#\xuexilianxi\ConsoleApp12_LSP\bin\Debug\ConsoleApp12_LSP.exe
+E:\CSDN\C#\xuexilianxi\ConsoleApp12_LSP\bin\Debug\ConsoleApp12_LSP.pdb
+E:\CSDN\C#\xuexilianxi\ConsoleApp12_LSP\obj\Debug\ConsoleApp12_LSP.csprojAssemblyReference.cache
+E:\CSDN\C#\xuexilianxi\ConsoleApp12_LSP\obj\Debug\ConsoleApp12_LSP.csproj.CoreCompileInputs.cache
+E:\CSDN\C#\xuexilianxi\ConsoleApp12_LSP\obj\Debug\ConsoleApp12_LSP.exe
+E:\CSDN\C#\xuexilianxi\ConsoleApp12_LSP\obj\Debug\ConsoleApp12_LSP.pdb

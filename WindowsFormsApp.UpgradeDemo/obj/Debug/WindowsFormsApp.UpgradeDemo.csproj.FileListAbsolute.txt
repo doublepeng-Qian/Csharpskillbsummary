@@ -1,0 +1,10 @@
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\bin\Debug\WindowsFormsApp.UpgradeDemo.exe.config
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\bin\Debug\WindowsFormsApp.UpgradeDemo.exe
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\bin\Debug\WindowsFormsApp.UpgradeDemo.pdb
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\obj\Debug\WindowsFormsApp.UpgradeDemo.csprojAssemblyReference.cache
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\obj\Debug\WindowsFormsApp.UpgradeDemo.FrmUpdate.resources
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\obj\Debug\WindowsFormsApp.UpgradeDemo.Properties.Resources.resources
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\obj\Debug\WindowsFormsApp.UpgradeDemo.csproj.GenerateResource.cache
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\obj\Debug\WindowsFormsApp.UpgradeDemo.csproj.CoreCompileInputs.cache
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\obj\Debug\WindowsFormsApp.UpgradeDemo.exe
+E:\CSDN\C#\xuexilianxi\WindowsFormsApp.UpgradeDemo\obj\Debug\WindowsFormsApp.UpgradeDemo.pdb

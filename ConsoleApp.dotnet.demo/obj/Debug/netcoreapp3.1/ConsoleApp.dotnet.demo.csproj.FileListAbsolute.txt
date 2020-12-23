@@ -1,0 +1,8 @@
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\bin\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.deps.json
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\bin\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.dll
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\bin\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.pdb
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\obj\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.csproj.CoreCompileInputs.cache
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\obj\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.AssemblyInfoInputs.cache
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\obj\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.AssemblyInfo.cs
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\obj\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.dll
+E:\CSDN\C#\xuexilianxi\ConsoleApp.dotnet.demo\obj\Debug\netcoreapp3.1\ConsoleApp.dotnet.demo.pdb
