@@ -1,6 +1,0 @@
-E:\CSDN\C#\xuexilianxi\ConsoleApp7_Hashtable\bin\Debug\ConsoleApp7_Hashtable.exe.config
-E:\CSDN\C#\xuexilianxi\ConsoleApp7_Hashtable\bin\Debug\ConsoleApp7_Hashtable.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp7_Hashtable\bin\Debug\ConsoleApp7_Hashtable.pdb
-E:\CSDN\C#\xuexilianxi\ConsoleApp7_Hashtable\obj\Debug\ConsoleApp7_Hashtable.csproj.CoreCompileInputs.cache
-E:\CSDN\C#\xuexilianxi\ConsoleApp7_Hashtable\obj\Debug\ConsoleApp7_Hashtable.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp7_Hashtable\obj\Debug\ConsoleApp7_Hashtable.pdb

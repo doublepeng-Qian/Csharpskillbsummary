@@ -37,8 +37,8 @@ namespace WindowsFormsApp1
         {
             #region 单向绑定和双向绑定
             _myData = new MyData();
-            textBox1.DataBindings.Add("Text", _myData, "TheValue", false, DataSourceUpdateMode.OnPropertyChanged);
-            textBox2.DataBindings.Add("Text", _myData, "TheValue", false, DataSourceUpdateMode.Never);
+            textBox1.DataBindings.Add("Text", _myData, "TheValue", false, DataSourceUpdateMode.OnPropertyChanged);//双向绑定
+            textBox2.DataBindings.Add("Text", _myData, "TheValue", false, DataSourceUpdateMode.Never);//单向绑定
             #endregion
         }
 

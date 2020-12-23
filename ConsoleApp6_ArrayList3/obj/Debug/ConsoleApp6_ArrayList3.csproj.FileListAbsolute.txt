@@ -1,6 +1,0 @@
-E:\CSDN\C#\xuexilianxi\ConsoleApp6_ArrayList3\obj\Debug\ConsoleApp6_ArrayList3.csproj.CoreCompileInputs.cache
-E:\CSDN\C#\xuexilianxi\ConsoleApp6_ArrayList3\bin\Debug\ConsoleApp6_ArrayList3.exe.config
-E:\CSDN\C#\xuexilianxi\ConsoleApp6_ArrayList3\bin\Debug\ConsoleApp6_ArrayList3.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp6_ArrayList3\bin\Debug\ConsoleApp6_ArrayList3.pdb
-E:\CSDN\C#\xuexilianxi\ConsoleApp6_ArrayList3\obj\Debug\ConsoleApp6_ArrayList3.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp6_ArrayList3\obj\Debug\ConsoleApp6_ArrayList3.pdb

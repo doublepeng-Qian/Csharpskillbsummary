@@ -1,6 +1,0 @@
-E:\CSDN\C#\xuexilianxi\ConsoleApp8_List_T\bin\Debug\ConsoleApp8_List_T.exe.config
-E:\CSDN\C#\xuexilianxi\ConsoleApp8_List_T\bin\Debug\ConsoleApp8_List_T.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp8_List_T\bin\Debug\ConsoleApp8_List_T.pdb
-E:\CSDN\C#\xuexilianxi\ConsoleApp8_List_T\obj\Debug\ConsoleApp8_List_T.csproj.CoreCompileInputs.cache
-E:\CSDN\C#\xuexilianxi\ConsoleApp8_List_T\obj\Debug\ConsoleApp8_List_T.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp8_List_T\obj\Debug\ConsoleApp8_List_T.pdb

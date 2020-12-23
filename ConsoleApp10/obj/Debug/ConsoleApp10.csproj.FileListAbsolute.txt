@@ -1,7 +1,0 @@
-E:\CSDN\C#\xuexilianxi\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
-E:\CSDN\C#\xuexilianxi\ConsoleApp10\bin\Debug\ConsoleApp10.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
-E:\CSDN\C#\xuexilianxi\ConsoleApp10\obj\Debug\ConsoleApp10.csprojAssemblyReference.cache
-E:\CSDN\C#\xuexilianxi\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
-E:\CSDN\C#\xuexilianxi\ConsoleApp10\obj\Debug\ConsoleApp10.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

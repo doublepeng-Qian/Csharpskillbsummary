@@ -1,6 +1,0 @@
-E:\CSDN\C#\xuexilianxi\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-E:\CSDN\C#\xuexilianxi\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-E:\CSDN\C#\xuexilianxi\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
-E:\CSDN\C#\xuexilianxi\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-E:\CSDN\C#\xuexilianxi\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
