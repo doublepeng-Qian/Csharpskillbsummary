@@ -1,0 +1,24 @@
+test gototest
+Test gototest
+set can1baud 250
+Set CAN1BAUD = 250 Pass
+set can2baud 500
+Set CAN2BAUD = 500 Pass
+set can3baud 500
+Set CAN3BAUD = 500 Pass
+set j1939ch 2
+Set J1939CH = 2 Pass
+set obdch 2
+Set OBDCH = 2 Pass
+set ecutype 0
+Set ECUType = 0 Pass
+set apptype 4
+Set apptype = 4 Pass
+set sockip gateway.jlguo6.burnish.cn
+Set SockIp = gateway.jlguo6.burnish.cn Pass
+set sockport 11005
+Set SockPort = 11005 Pass
+cmd ecusave
+IMPORT::SaveECU End
+cmd reboot
+YNRCT reboot now

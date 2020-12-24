@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp2
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [Serializable] //User类允许被反序列化
     public class User
     {
@@ -17,6 +20,9 @@ namespace WindowsFormsApp2
         public Authority Level { get; set; }
     }
 
+    /// <summary>
+    /// 权限等级枚举
+    /// </summary>
     public enum Authority
     { 
         Admin,
@@ -24,6 +30,9 @@ namespace WindowsFormsApp2
         Op,
     }
 
+    /// <summary>
+    /// 用户管理类
+    /// </summary>
     public class UserHepler
     {
         private string filePath = string.Empty;
@@ -90,6 +99,12 @@ namespace WindowsFormsApp2
             }
         }
 
+        /// <summary>
+        /// 检查用户名是否重复
+        /// </summary>
+        /// <param name="listUser"></param>
+        /// <param name="userName"></param>
+        /// <returns></returns>
         public bool CheckContainUser(List<User> listUser, string userName)
         {
             var user = from item in listUser
@@ -143,6 +158,13 @@ namespace WindowsFormsApp2
             return true;
         }
 
+        /// <summary>
+        /// 编辑用户属性
+        /// </summary>
+        /// <param name="path"></param>
+        /// <param name="listUser"></param>
+        /// <param name="user"></param>
+        /// <returns></returns>
         public bool EditUser(string path, List<User> listUser, User user)
         {
             if (listUser == null) return false;

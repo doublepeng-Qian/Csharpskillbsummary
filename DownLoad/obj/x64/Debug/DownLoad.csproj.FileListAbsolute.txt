@@ -1,0 +1,13 @@
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\bin\x64\Debug\DownLoad.exe.config
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\bin\x64\Debug\DownLoad.exe
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\bin\x64\Debug\DownLoad.pdb
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\obj\x64\Debug\DownLoad.DownLoadFile.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\obj\x64\Debug\DownLoad.Properties.Resources.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\obj\x64\Debug\DownLoad.csproj.GenerateResource.cache
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\obj\x64\Debug\DownLoad.csproj.CoreCompileInputs.cache
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\obj\x64\Debug\DownLoad.exe
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\obj\x64\Debug\DownLoad.pdb
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\bin\x64\Debug\MetroFramework.Design.dll
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\bin\x64\Debug\MetroFramework.dll
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\bin\x64\Debug\MetroFramework.Fonts.dll
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\DownLoad\obj\x64\Debug\DownLoad.csproj.CopyComplete

@@ -118,7 +118,9 @@
             this.Controls.Add(this.txtPassWord);
             this.Controls.Add(this.txtUser);
             this.Controls.Add(this.dgvManger);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "SetForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SetForm";
             ((System.ComponentModel.ISupportInitialize)(this.dgvManger)).EndInit();
             this.ResumeLayout(false);

@@ -8,10 +8,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ComponentFactory.Krypton.Toolkit;
+using ComponentFactory.Krypton.Navigator;
+using ComponentFactory.Krypton.Workspace;
+using ComponentFactory.Krypton.Docking;
+using ComponentFactory.Krypton.Ribbon;
+//using MetroFramework.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class SetForm : Form
+    public partial class SetForm : KryptonForm
     {
         UserHepler helper = new UserHepler("");
         List<User> listUser = new List<User>();

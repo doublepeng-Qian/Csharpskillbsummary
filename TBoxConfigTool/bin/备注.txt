@@ -1,0 +1,2 @@
+TboxConfigToolTestV01.03：
+这个版本是修改.net Framework2.0

@@ -1,0 +1,15 @@
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.Form2.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.FormAuthor.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.MainForm.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.Properties.Resources.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.csproj.GenerateResource.cache
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.csproj.CoreCompileInputs.cache
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\x64\Debug\TBoxConfigTool.exe.config
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\x64\Debug\TBoxConfigTool.exe
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\x64\Debug\TBoxConfigTool.pdb
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\x64\Debug\MetroFramework.Design.dll
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\x64\Debug\MetroFramework.dll
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\x64\Debug\MetroFramework.Fonts.dll
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.csproj.CopyComplete
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.exe
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\x64\Debug\TBoxConfigTool.pdb

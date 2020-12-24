@@ -1,0 +1,11 @@
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\Debug\TBoxConfigTool.exe.config
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\Debug\TBoxConfigTool.exe
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\bin\Debug\TBoxConfigTool.pdb
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.Form2.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.FormAuthor.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.MainForm.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.Properties.Resources.resources
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.csproj.GenerateResource.cache
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.csproj.CoreCompileInputs.cache
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.exe
+D:\RTC_FREERTOS_PROJECT\ivc_github\TboxConfigTool\TBoxConfigTool\obj\Debug\TBoxConfigTool.pdb
